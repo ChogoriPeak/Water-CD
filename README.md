@@ -1,4 +1,4 @@
-# Water-CD Dataset
+## Water-CD Dataset
 
 This dataset contains data related to water resources to support water management and research work. Here you will find instructions on how to download the "watercd" dataset and details about its contents.
 
