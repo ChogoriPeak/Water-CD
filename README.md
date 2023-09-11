@@ -20,7 +20,7 @@ detection labels in the Water-CD dataset is relatively uniform. (b) represents t
 1. [Baiduyun Driver - Link 1](https://pan.baidu.com/s/1NQMOhi9I1I5qibVfMf8qfA?pwd=wacd)
 2. [Google Driver - Link 2](https://drive.google.com/file/d/1XsfgzLKR3xulP47FHaVTCyWoaRQtxahQ/view?usp=drive_link)
 
--Please click on one of the links above to begin the download of the dataset.
+Please click on one of the links above to begin the download of the dataset.
 
 ## Dataset Contents
 
