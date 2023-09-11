@@ -17,7 +17,7 @@ detection labels in the Water-CD dataset is relatively uniform. (b) represents t
 
 You can download the "Water-CD" dataset compressed file using the following links:
 
-1. [Baiduyun Driver - Link 1](Link: https://pan.baidu.com/s/1NQMOhi9I1I5qibVfMf8qfA?pwd=wacd password: wacd)
+1. [Baiduyun Driver - Link 1](Link: https://pan.baidu.com/s/1NQMOhi9I1I5qibVfMf8qfA?pwd=wacd)
 2. [Google Driver - Link 2](https://drive.google.com/file/d/1XsfgzLKR3xulP47FHaVTCyWoaRQtxahQ/view?usp=drive_link)
 
 Please click on one of the links above to begin the download of the dataset.
