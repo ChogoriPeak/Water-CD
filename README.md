@@ -16,8 +16,8 @@
 
 - You can download the "Water-CD" dataset compressed file using the following links:
 
-1. [Baiduyun Driver - Link 1](https://pan.baidu.com/s/1NQMOhi9I1I5qibVfMf8qfA?pwd=wacd)
-2. [Google Driver - Link 2](https://drive.google.com/file/d/1XsfgzLKR3xulP47FHaVTCyWoaRQtxahQ/view?usp=drive_link)
+1. [Baiduyun Driver - Link 1](https://pan.baidu.com/s/1NQMOhi9I1I5qibVfMf8qfA?)
+2. [Google Driver - Link 2]()
 
 Please click on one of the links above to begin the download of the dataset.
 
