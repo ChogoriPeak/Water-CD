@@ -2,7 +2,7 @@
 
 - This dataset contains data related to water resources to support water management and research work. Here you will find instructions on how to download the "Water-CD" dataset and details about its contents.
 
-- Water-CD is the first dual-task dataset for water bodies that includes segmentation and change detection . Multiple seasonal water bodies located in the Yangtze River Basin in China and various areas of the Jomuna River in South Asia were selected as the data sources for water change detection. The dataset consists of multiple temporal remote sensing images acquired from the Sentinel-2 satellite, with a spatial resolution of 10m. These images include three bands: R (red), G (green), and NIR (near-infrared).
+- Water-CD is the dataset for water bodies that includes change detection . Multiple seasonal water bodies located in the Yangtze River Basin in China and various areas of the Jomuna River in South Asia were selected as the data sources for water change detection. The dataset consists of multiple temporal remote sensing images acquired from the Sentinel-2 satellite, with a spatial resolution of 10m. These images include three bands: R (red), G (green), and NIR (near-infrared).
 
 ![数据来源2-3](pic/pic2.png)
 
